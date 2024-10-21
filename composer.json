@@ -1,5 +1,5 @@
 {
-    "name": "tomatophp/filament-tenancy",
+    "name": "taghassan54/filament-tenancy",
     "type": "library",
     "description": "Tenancy multi-database integration for FilamentPHP",
     "keywords": [
@@ -32,7 +32,7 @@
     },
     "authors": [
         {
-            "name": "Fady Mondy",
+            "name": "Fady Mondy @ forked by me",
             "email": "info@3x1.io"
         }
     ],
